@@ -40,7 +40,7 @@ Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — rank 148 of 39
 
 ---
 
-<img align="right" width="42%" src="assets/herblens-preview.png"/>
+<img align="right" width="38%" src="assets/herblens-demo.gif"/>
 
 **[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
