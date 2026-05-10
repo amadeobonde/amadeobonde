@@ -50,13 +50,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=amadeobonde&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=percentile"
-    height="165"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeobonde&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=6"
-    height="165"
+    src="https://github-profile-trophy.vercel.app/?username=amadeobonde&theme=onedark&no-frame=true&row=1&column=6&margin-w=10"
+    width="95%"
+    alt="trophies"
   />
 </p>
 
