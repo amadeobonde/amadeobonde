@@ -55,13 +55,13 @@ iOS plant ID app — photograph a herb, get instant identification, health scori
 
 <br/>
 
-<img align="right" width="28%" src="assets/devexana-preview.png"/>
+<img align="right" width="28%" src="assets/viralreels-preview.png"/>
 
-**[devexana-reels](https://github.com/amadeobonde/devexana-reels)**
+**[viralreels](https://github.com/amadeobonde/viralreels)**
 
-Fully automated short-form video pipeline — ingests source clips, generates 6 aspect-ratio variants, writes AI captions via Gemini, runs a multi-pass quality gate, and routes to a Telegram review bot before publish. 12k+ lines written primarily with Cursor, fully headless. Built with a team of 3.
+AI comedy reel pipeline — generates viral short-form content end-to-end: Claude/Gemini scripts, ElevenLabs TTS, Pexels B-roll, MoviePy assembly, quality gate, 3-format export, and Telegram review bot. Built to study AI-driven content creation and social media growth at scale.
 
-`Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `MoviePy` &nbsp; `Remotion`
+`Python` &nbsp; `MoviePy` &nbsp; `Gemini` &nbsp; `ElevenLabs`
 
 <br clear="right"/>
 
