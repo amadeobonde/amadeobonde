@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/hacker-screen-mastermind-pixel-jeff-nt0m8sakkytx3b8m.gif" width="480" alt="pixel coder"/>
+  <img src="pixel-coder.gif" width="480" alt="pixel coder"/>
 </p>
 
 <h1 align="center">hey, I'm Amadeo 👋</h1>
@@ -57,9 +57,21 @@
 
 ### 📌 projects
 
-| | |
-|---|---|
-| [**jetson-inference**](https://github.com/amadeobonde/jetson-inference) | LLM inference engine for Jetson Orin Nano — streams quantized weights off NVMe via `io_uring`, custom CUDA kernels, sparse FFN activation prediction cuts I/O ~60% · `C++` `CUDA` |
-| [**HerbLens**](https://github.com/amadeobonde/HerbLens) | iOS plant identification app — camera → instant ID → AI chat, SwiftUI + Supabase + Gemini vision + Claude · `Swift` `Supabase` |
-| [**anthropic-kernel-challenge**](https://github.com/amadeobonde/anthropic-kernel-challenge) | Optimized Anthropic's VLIW SIMD scheduler to 1,358 cycles, beating Claude Opus 4.5 (1,363). DAG scheduling, WAR hazard elimination, SIMD vectorization · `Python` |
-| [**devexana-reels**](https://github.com/amadeobonde/devexana-reels) | Automated Instagram Reels pipeline — 6 video formats, Gemini AI captions, quality gate, Telegram review bot · `Python` `MoviePy` `Remotion` |
+<table>
+<tr>
+<td><a href="https://github.com/amadeobonde/jetson-inference"><b>jetson-inference</b></a></td>
+<td>LLM inference engine for Jetson Orin Nano — streams quantized weights off NVMe via <code>io_uring</code>, custom CUDA kernels, sparse FFN activation prediction cuts I/O ~60% · <code>C++</code> <code>CUDA</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amadeobonde/HerbLens"><b>HerbLens</b></a></td>
+<td>iOS plant identification app — camera → instant ID → AI chat, SwiftUI + Supabase + Gemini vision + Claude · <code>Swift</code> <code>Supabase</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amadeobonde/anthropic-kernel-challenge"><b>anthropic-kernel-challenge</b></a></td>
+<td>Optimized Anthropic's VLIW SIMD scheduler to 1,358 cycles, beating Claude Opus 4.5 (1,363). DAG scheduling, WAR hazard elimination, SIMD vectorization · <code>Python</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amadeobonde/devexana-reels"><b>devexana-reels</b></a></td>
+<td>Automated Instagram Reels pipeline — 6 video formats, Gemini AI captions, quality gate, Telegram review bot · <code>Python</code> <code>MoviePy</code> <code>Remotion</code></td>
+</tr>
+</table>
