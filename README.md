@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="oregon-trail.svg" alt="oregon trail pixel animation" width="800"/>
-</p>
-
-<p align="center">
   <img src="pixel-coder.gif" width="480" alt="pixel coder"/>
 </p>
 
