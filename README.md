@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="oregon-trail.svg" alt="oregon trail pixel animation" width="800"/>
+</p>
+
 <h1 align="center">hey, I'm Amadeo 👋</h1>
 
 <p align="center">
