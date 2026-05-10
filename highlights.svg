@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="110" viewBox="0 0 720 110">
+  <rect width="720" height="110" rx="8" fill="#0d1117"/>
+  <rect width="720" height="110" rx="8" fill="none" stroke="#21262d" stroke-width="1"/>
+
+  <!-- dividers -->
+  <line x1="240" y1="18" x2="240" y2="92" stroke="#21262d" stroke-width="1"/>
+  <line x1="480" y1="18" x2="480" y2="92" stroke="#21262d" stroke-width="1"/>
+
+  <!-- col 1: kernel cycles -->
+  <text x="120" y="52" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" font-weight="bold" fill="#58a6ff">1,358</text>
+  <text x="120" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">cycles · VLIW kernel scheduler</text>
+  <text x="120" y="84" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#3fb950">beat Claude Opus 4.5  (1,363)</text>
+
+  <!-- col 2: I/O reduction -->
+  <text x="360" y="52" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" font-weight="bold" fill="#58a6ff">~60%</text>
+  <text x="360" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">NVMe I/O reduction</text>
+  <text x="360" y="84" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#8b949e">sparse FFN · activation prediction</text>
+
+  <!-- col 3: lines of code -->
+  <text x="600" y="52" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" font-weight="bold" fill="#58a6ff">12k+</text>
+  <text x="600" y="68" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">lines · video automation</text>
+  <text x="600" y="84" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#8b949e">MoviePy · Remotion · Telegram</text>
+</svg>
