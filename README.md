@@ -3,20 +3,18 @@
 </p>
 
 <p align="center">
-  <sub>hardware × software &nbsp;·&nbsp; NVMe inference · iOS + AI · automation &nbsp;·&nbsp; Bergen County, NJ</sub>
+  <span>hardware × software &nbsp;·&nbsp; NVMe inference &nbsp;·&nbsp; iOS + AI &nbsp;·&nbsp; automation &nbsp;·&nbsp; Bergen County, NJ</span>
+</p>
+
+<p align="center">
+  <a href="mailto:abonde421@gmail.com">
+    <img src="https://img.shields.io/badge/abonde421%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=8b949e"/>
+  </a>
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/ranked%20148%2F391%20%E2%80%94%201%2C358%20cycles%20%C2%B7%20beat%20Claude%20Opus%204.5-161b22?style=flat-square&logoColor=3fb950"/>
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="mailto:abonde421@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/beat%20Claude%20Opus%204.5%20%E2%80%94%201%2C358%20cycles-3fb950?style=flat-square&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jetson%20Orin%20%C2%B7%20NVMe%20%E2%86%92%20GPU-58a6ff?style=flat-square&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/iOS%2026%20%C2%B7%20SwiftUI-f778ba?style=flat-square&labelColor=161b22"/>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,swift,cpp,ts,react,postgres,docker,supabase,linux,xcode&theme=dark&perline=10"/>
@@ -24,59 +22,65 @@
 
 ---
 
-<h3 align="center">projects</h3>
-
 <br/>
 
-<img align="right" width="40%" src="assets/kernel-leaderboard.png"/>
+<img align="right" width="42%" src="assets/kernel-leaderboard.png"/>
 
 **[anthropic-kernel-challenge](https://github.com/amadeobonde/anthropic-kernel-challenge)**
 
-Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — rank 148 of 391, beating Claude Opus 4.5 (1,363). DAG-based instruction scheduling, WAR hazard elimination, vectorized SIMD batching.
+Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — rank 148 of 391, beating Claude Opus 4.5 (1,363). Approach: DAG-based instruction scheduling, WAR hazard elimination, vectorized SIMD batching.
 
-`C++` `CUDA` `SIMD`
+`C++` &nbsp; `CUDA` &nbsp; `SIMD`
 
 <br clear="right"/>
 
 ---
 
-<img align="right" width="38%" src="assets/herblens-demo.gif"/>
+<br/>
+
+<img align="right" width="34%" src="assets/herblens-demo.gif"/>
 
 **[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
-iOS plant ID app — photograph a herb, get instant AI identification, health scoring against your goals, contraindication warnings, and step-by-step tea & tincture recipes. iOS 26 Liquid Glass UI, RevenueCat paywall.
+iOS plant ID app — photograph a herb, get instant identification, health scoring against your goals, contraindication warnings, and step-by-step tea & tincture recipes. iOS 26 Liquid Glass UI, RevenueCat paywall.
 
-`Swift` `SwiftUI` `Supabase` `Gemini`
+`Swift` &nbsp; `SwiftUI` &nbsp; `Supabase` &nbsp; `Gemini`
 
 <br clear="right"/>
 
 ---
 
-<img align="right" width="30%" src="assets/devexana-reel.gif"/>
+<br/>
+
+<img align="right" width="28%" src="assets/devexana-preview.png"/>
 
 **[devexana-reels](https://github.com/amadeobonde/devexana-reels)**
 
-Automated Instagram Reels pipeline — 6 video formats per clip, Gemini AI captions, multi-pass quality gate, Telegram review bot. 12k+ lines, fully headless.
+Fully automated short-form video pipeline — ingests source clips, generates 6 aspect-ratio variants, writes AI captions via Gemini, runs a multi-pass quality gate, and routes to a Telegram review bot before publish. 12k+ lines, fully headless.
 
-`Python` `TypeScript` `MoviePy` `Remotion`
+`Python` &nbsp; `TypeScript` &nbsp; `MoviePy` &nbsp; `Remotion`
 
 <br clear="right"/>
 
 ---
 
+<br/>
+
 **[jetson-inference](https://github.com/amadeobonde/jetson-inference)**
 
-LLM inference engine for Jetson Orin Nano. Streams quantized weights off NVMe directly to GPU via `io_uring` zero-copy I/O. Custom CUDA kernels + sparse FFN activation prediction cuts I/O ~60%.
+LLM inference engine for Jetson Orin Nano. Streams quantized model weights off NVMe directly to GPU via `io_uring` zero-copy I/O — no full-model RAM load. Custom CUDA kernels, sparse FFN with activation prediction cuts I/O ~60%.
 
-`C++` `CUDA` `Python` `io_uring`
+`C++` &nbsp; `CUDA` &nbsp; `Python` &nbsp; `io_uring`
 
 ---
 
+<br/>
+
 **[podcastbrief](https://github.com/amadeobonde/podcastbrief)**
 
-Spotify playlist → morning-brief PDFs + Obsidian vault queryable from Telegram. Whisper transcription, local Gemma 4 via Ollama — zero cloud API cost.
+Spotify playlist → morning-brief PDFs + an Obsidian-style notes vault you can query over Telegram. Whisper transcription, local Gemma 4 via Ollama — zero cloud API cost after setup.
 
-`Python` `Ollama` `Whisper`
+`Python` &nbsp; `Ollama` &nbsp; `Whisper`
 
 ---
 
