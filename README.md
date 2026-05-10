@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=hardware+%C3%97+software+engineer+%C2%B7+Bergen+County%2C+NJ;NVMe+LLM+inference+%C2%B7+iOS+%2B+AI+%C2%B7+automation+pipelines" alt="roles"/>
+  <sub>hardware × software &nbsp;·&nbsp; NVMe inference · iOS + AI · automation &nbsp;·&nbsp; Bergen County, NJ</sub>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%93_beat_Claude_Opus_4.5-1%2C358_cycles-3fb950?style=flat-square&labelColor=161b22&logo=anthropic&logoColor=white"/>
+  <a href="mailto:abonde421@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/NVMe_%E2%86%92_GPU-io__uring_zero--copy-58a6ff?style=flat-square&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/beat%20Claude%20Opus%204.5%20%E2%80%94%201%2C358%20cycles-3fb950?style=flat-square&labelColor=161b22"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/iOS_26-Liquid_Glass_SwiftUI-f778ba?style=flat-square&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/Jetson%20Orin%20%C2%B7%20NVMe%20%E2%86%92%20GPU-58a6ff?style=flat-square&labelColor=161b22"/>
   &nbsp;
-  <a href="mailto:abonde421@gmail.com">
-    <img src="https://img.shields.io/badge/abonde421%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/iOS%2026%20%C2%B7%20SwiftUI-f778ba?style=flat-square&labelColor=161b22"/>
 </p>
 
 <p align="center">
