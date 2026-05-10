@@ -55,7 +55,7 @@ iOS plant ID app — photograph a herb, get instant identification, health scori
 
 <br/>
 
-<img align="right" width="28%" src="assets/viralreels-preview.png"/>
+<img align="right" width="22%" src="assets/viralreels-demo.gif"/>
 
 **[viralreels](https://github.com/amadeobonde/viralreels)**
 
