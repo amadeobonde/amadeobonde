@@ -163,9 +163,63 @@
   <circle cx="418" cy="100" r="4" fill="#231200"/>
 </g>
 
+<!-- ── PIXEL CODER (left side, sitting at desk) ── -->
+<!-- desk surface -->
+<rect x="60" y="92" width="52" height="5" fill="#5C2C0A"/>
+<rect x="56" y="92" width="60" height="4" fill="#7B3A0E"/>
+<!-- desk legs -->
+<rect x="60" y="96" width="4" height="14" fill="#5C2C0A"/>
+<rect x="108" y="96" width="4" height="14" fill="#5C2C0A"/>
+
+<!-- monitor stand -->
+<rect x="84" y="86" width="4" height="8" fill="#333"/>
+<rect x="80" y="89" width="12" height="3" fill="#333"/>
+<!-- monitor screen -->
+<rect x="68" y="64" width="36" height="26" fill="#111"/>
+<rect x="70" y="66" width="32" height="22" fill="#0a2a0a"/>
+<!-- screen glow (animated) -->
+<rect x="70" y="66" width="32" height="22" fill="#00ff41" opacity="0.08">
+  <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2s" repeatCount="indefinite"/>
+</rect>
+<!-- code lines on screen -->
+<rect x="72" y="69" width="18" height="2" fill="#00ff41" opacity="0.9"/>
+<rect x="72" y="73" width="24" height="2" fill="#00ff41" opacity="0.9"/>
+<rect x="72" y="77" width="14" height="2" fill="#00ff41" opacity="0.9"/>
+<rect x="72" y="81" width="20" height="2" fill="#00ff41" opacity="0.9"/>
+<!-- blinking cursor -->
+<rect x="92" y="81" width="2" height="2" fill="#00ff41">
+  <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+</rect>
+
+<!-- person: head -->
+<rect x="83" y="52" width="12" height="12" fill="#F5C5A3"/>
+<!-- hair -->
+<rect x="83" y="52" width="12" height="3" fill="#2C1A0E"/>
+<rect x="83" y="52" width="2"  height="7" fill="#2C1A0E"/>
+<!-- eyes -->
+<rect x="86" y="57" width="2" height="2" fill="#1a1a1a"/>
+<rect x="91" y="57" width="2" height="2" fill="#1a1a1a"/>
+
+<!-- person: body -->
+<rect x="82" y="64" width="14" height="14" fill="#2C4A8C"/>
+<!-- person: left arm (typing, animated) -->
+<g>
+  <rect x="74" y="69" width="8" height="4" fill="#2C4A8C"/>
+  <rect x="72" y="72" width="6" height="3" fill="#F5C5A3"/>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0;0,-1;0,0" dur="0.3s" repeatCount="indefinite"/>
+</g>
+<!-- person: right arm (typing, animated, offset) -->
+<g>
+  <rect x="96" y="69" width="8" height="4" fill="#2C4A8C"/>
+  <rect x="100" y="72" width="6" height="3" fill="#F5C5A3"/>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,-1;0,0;0,-1" dur="0.3s" repeatCount="indefinite"/>
+</g>
+
 <!-- ── PIXEL TEXT ── -->
 <text x="10" y="134" font-family="'Courier New', monospace" font-size="10"
   fill="#C4A35A" letter-spacing="2" font-weight="bold">OREGON TRAIL · 2026</text>
-<text x="630" y="134" font-family="'Courier New', monospace" font-size="10"
+<text x="580" y="134" font-family="'Courier New', monospace" font-size="10"
   fill="#C4A35A" letter-spacing="1">YOU HAVE NOT DIED OF DYSENTERY</text>
 </svg>
