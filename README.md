@@ -2,6 +2,10 @@
   <img src="oregon-trail.svg" alt="oregon trail pixel animation" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://gifdb.com/images/high/hacker-screen-mastermind-pixel-jeff-nt0m8sakkytx3b8m.gif" width="480" alt="pixel coder"/>
+</p>
+
 <h1 align="center">hey, I'm Amadeo 👋</h1>
 
 <p align="center">
