@@ -46,33 +46,39 @@
 
 <h3 align="center">projects</h3>
 
-<p align="center">
+<table align="center" width="92%" cellspacing="8" cellpadding="0" border="0">
+<tr>
+<td width="50%" align="center">
   <a href="https://github.com/amadeobonde/jetson-inference">
     <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=jetson-inference&desc=LLM+inference+engine+for+Jetson+Orin+Nano.+Streams+quantized+weights+off+NVMe+via+io_uring%2C+custom+CUDA+kernels%2C+sparse+FFN+cuts+I%2FO+~60%25.&stack=CUDA%2CC%2B%2B%2CPython&metric=~60%25&metricLabel=I%2FO+reduction" width="100%" alt="jetson-inference"/>
   </a>
-</p>
-
-<p align="center">
+</td>
+<td width="50%" align="center">
   <a href="https://github.com/amadeobonde/anthropic-kernel-challenge">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=anthropic-kernel-challenge&desc=Optimized+Anthropic%27s+VLIW+SIMD+scheduler+to+1%2C358+cycles+%E2%80%94+beating+Claude+Opus+4.5+%281%2C363%29.+DAG+scheduling%2C+WAR+hazard+elimination%2C+vectorized+SIMD+batching.&stack=C%2B%2B%2CCUDA&metric=1%2C358&metricLabel=cycles+%28beat+Claude+Opus+4.5%29" width="100%" alt="anthropic-kernel-challenge"/>
+    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=anthropic-kernel-challenge&desc=Optimized+Anthropic%27s+VLIW+SIMD+scheduler+to+1%2C358+cycles+%E2%80%94+beating+Claude+Opus+4.5+%281%2C363%29.+DAG+scheduling%2C+WAR+hazard+elimination%2C+SIMD+batching.&stack=C%2B%2B%2CCUDA&metric=1%2C358&metricLabel=beat+Claude+Opus+4.5" width="100%" alt="anthropic-kernel-challenge"/>
   </a>
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
   <a href="https://github.com/amadeobonde/HerbLens">
     <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=HerbLens&desc=iOS+plant+ID+app+%E2%80%94+camera+%E2%86%92+instant+ID+%E2%86%92+AI+chat.+SwiftUI%2C+Supabase%2C+Deno+edge+functions%2C+Gemini+vision+%2B+Claude.&stack=Swift%2CTypeScript" width="100%" alt="HerbLens"/>
   </a>
-  &nbsp;
+</td>
+<td width="50%" align="center">
   <a href="https://github.com/amadeobonde/devexana-reels">
     <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=devexana-reels&desc=Automated+Instagram+Reels+pipeline+%E2%80%94+6+video+formats%2C+Gemini+AI+captions%2C+quality+gate%2C+Telegram+review+bot.&stack=Python%2CTypeScript&metric=12k%2B&metricLabel=lines+of+code" width="100%" alt="devexana-reels"/>
   </a>
-</p>
-
-<p align="center">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
   <a href="https://github.com/amadeobonde/podcastbrief">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=podcastbrief&desc=Spotify+podcast+playlist+%E2%86%92+morning-brief+PDFs+%2B+Obsidian+vault+queryable+from+Telegram.+Whisper+transcription%2C+local+Gemma+4+via+Ollama+%E2%80%94+zero+cloud+API+cost.&stack=Python" width="100%" alt="podcastbrief"/>
+    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=podcastbrief&desc=Spotify+podcast+playlist+%E2%86%92+morning-brief+PDFs+%2B+Obsidian+vault+queryable+from+Telegram.+Whisper+transcription%2C+local+Gemma+4+via+Ollama+%E2%80%94+zero+cloud+API+cost.&stack=Python" width="50%" alt="podcastbrief"/>
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
