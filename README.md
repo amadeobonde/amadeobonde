@@ -1,36 +1,20 @@
 <p align="center">
-  <img
-    src="https://profile-cards-zeta.vercel.app/api/card/hero"
-    width="100%"
-    alt="amadeo bonde"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=amadeo+bonde;hardware+%C3%97+software+engineer;NVMe+inference+on+Jetson+Orin+Nano;iOS+apps+with+AI+backends;automation+that+runs+itself" alt="amadeo bonde"/>
 </p>
 
 <p align="center">
   <a href="mailto:abonde421@gmail.com">
-    <img src="https://img.shields.io/badge/email-abonde421%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=0d1117"/>
+    <img src="https://img.shields.io/badge/abonde421%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Bergen%20County%2C%20NJ-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=4285F4&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Bergen%20County%2C%20NJ-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="highlights.svg" width="72%" alt="highlights"/>
 </p>
 
 ---
-
-<br/>
-
-**what I'm working on**
-
-- LLM inference engine that streams quantized weights off NVMe directly to GPU on Jetson Orin Nano — custom CUDA kernels, `io_uring` zero-copy I/O, sparse FFN with activation prediction
-- Beat Claude Opus 4.5 on Anthropic's own kernel benchmark — **1,358 cycles vs 1,363**
-- iOS plant identification app: camera → Gemini vision → Claude chat, SwiftUI + Supabase + Deno edge functions
-- Automated video pipeline: 6 reel formats, Gemini captions, quality-gated, Telegram review bot
-- Podcast → PDF morning brief pipeline: Spotify playlist → Whisper transcription → local Gemma 4 via Ollama → image-forward PDF + Obsidian vault, Telegram delivery
-
-<br/>
-
----
-
-<br/>
 
 <h3 align="center">stack</h3>
 
@@ -38,49 +22,65 @@
   <img src="https://skillicons.dev/icons?i=python,swift,cpp,ts,react,postgres,docker,supabase,linux,xcode&theme=dark&perline=10"/>
 </p>
 
-<br/>
-
 ---
-
-<br/>
 
 <h3 align="center">projects</h3>
 
-<table align="center" width="92%" cellspacing="8" cellpadding="0" border="0">
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/amadeobonde/jetson-inference">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=jetson-inference&desc=LLM+inference+engine+for+Jetson+Orin+Nano.+Streams+quantized+weights+off+NVMe+via+io_uring%2C+custom+CUDA+kernels%2C+sparse+FFN+cuts+I%2FO+~60%25.&stack=CUDA%2CC%2B%2B%2CPython&metric=~60%25&metricLabel=I%2FO+reduction" width="100%" alt="jetson-inference"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/amadeobonde/anthropic-kernel-challenge">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=anthropic-kernel-challenge&desc=Optimized+Anthropic%27s+VLIW+SIMD+scheduler+to+1%2C358+cycles+%E2%80%94+beating+Claude+Opus+4.5+%281%2C363%29.+DAG+scheduling%2C+WAR+hazard+elimination%2C+SIMD+batching.&stack=C%2B%2B%2CCUDA&metric=1%2C358&metricLabel=beat+Claude+Opus+4.5" width="100%" alt="anthropic-kernel-challenge"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/amadeobonde/HerbLens">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=HerbLens&desc=iOS+plant+ID+app+%E2%80%94+camera+%E2%86%92+instant+ID+%E2%86%92+AI+chat.+SwiftUI%2C+Supabase%2C+Deno+edge+functions%2C+Gemini+vision+%2B+Claude.&stack=Swift%2CTypeScript" width="100%" alt="HerbLens"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/amadeobonde/devexana-reels">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=devexana-reels&desc=Automated+Instagram+Reels+pipeline+%E2%80%94+6+video+formats%2C+Gemini+AI+captions%2C+quality+gate%2C+Telegram+review+bot.&stack=Python%2CTypeScript&metric=12k%2B&metricLabel=lines+of+code" width="100%" alt="devexana-reels"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <a href="https://github.com/amadeobonde/podcastbrief">
-    <img src="https://profile-cards-zeta.vercel.app/api/card/project?name=podcastbrief&desc=Spotify+podcast+playlist+%E2%86%92+morning-brief+PDFs+%2B+Obsidian+vault+queryable+from+Telegram.+Whisper+transcription%2C+local+Gemma+4+via+Ollama+%E2%80%94+zero+cloud+API+cost.&stack=Python" width="50%" alt="podcastbrief"/>
-  </a>
-</td>
-</tr>
-</table>
-
 <br/>
+
+<img align="right" width="42%" src="assets/kernel-leaderboard.png"/>
+
+**[anthropic-kernel-challenge](https://github.com/amadeobonde/anthropic-kernel-challenge)**
+
+Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — landing at rank 148 of 391 and beating Claude Opus 4.5 (1,363). Approach: DAG-based instruction scheduling, WAR hazard elimination, and vectorized SIMD batching.
+
+`C++` `CUDA` `SIMD`
+
+<br clear="right"/>
+
+---
+
+<img align="right" width="36%" src="assets/herblens-preview.png"/>
+
+**[HerbLens](https://github.com/amadeobonde/HerbLens)**
+
+iOS plant identification app — photograph a herb, get an instant AI ID, health score against your goals, contraindication warnings, and step-by-step tea & tincture recipes. Premium tier via RevenueCat.
+
+SwiftUI · Supabase · Deno edge functions · Gemini 2.5 Flash vision + Claude chat · iOS 26 Liquid Glass
+
+`Swift` `TypeScript` `Supabase`
+
+<br clear="right"/>
+
+---
+
+<img align="right" width="36%" src="assets/devexana-preview.png"/>
+
+**[devexana-reels](https://github.com/amadeobonde/devexana-reels)**
+
+Automated Instagram Reels pipeline — 6 video formats generated per clip, Gemini AI captions, multi-pass quality gate, Telegram review bot for approval before publish. 12k+ lines, fully headless.
+
+`Python` `TypeScript` `MoviePy` `Remotion`
+
+<br clear="right"/>
+
+---
+
+**[jetson-inference](https://github.com/amadeobonde/jetson-inference)**
+
+LLM inference engine for Jetson Orin Nano. Streams quantized weights directly off NVMe to GPU via `io_uring` zero-copy I/O — cutting memory overhead vs loading full model into RAM. Custom CUDA kernels, sparse FFN with activation prediction cuts I/O by ~60%.
+
+`Python` `C++` `CUDA` `io_uring`
+
+---
+
+**[podcastbrief](https://github.com/amadeobonde/podcastbrief)**
+
+Spotify podcast playlist → morning-brief PDFs + an Obsidian-style notes vault you can query from Telegram. Whisper transcription, local Gemma 4 E4B via Ollama — zero cloud API cost after setup.
+
+`Python` `Ollama` `Whisper`
+
+---
 
 <p align="center">
   <img
