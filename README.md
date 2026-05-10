@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/email-abonde421%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=0d1117"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Los%20Angeles%2C%20CA-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=4285F4&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Bergen%20County%2C%20NJ-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=4285F4&color=0d1117"/>
 </p>
 
 ---
@@ -69,8 +69,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amadeobonde&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true"
+    src="https://raw.githubusercontent.com/amadeobonde/amadeobonde/output/github-contribution-grid-snake-dark.svg"
     width="95%"
+    alt="contribution snake"
   />
 </p>
 
