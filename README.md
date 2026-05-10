@@ -27,6 +27,7 @@
 - Beat Claude Opus 4.5 on Anthropic's own kernel benchmark — **1,358 cycles vs 1,363**
 - iOS plant identification app: camera → Gemini vision → Claude chat, SwiftUI + Supabase + Deno edge functions
 - Automated video pipeline: 6 reel formats, Gemini captions, quality-gated, Telegram review bot
+- Podcast → PDF morning brief pipeline: Spotify playlist → Whisper transcription → local Gemma 4 via Ollama → image-forward PDF + Obsidian vault, Telegram delivery
 
 <br/>
 
@@ -84,6 +85,10 @@
 <tr>
 <td><a href="https://github.com/amadeobonde/devexana-reels"><b>devexana-reels</b></a></td>
 <td>Automated Instagram Reels pipeline — 6 video formats, Gemini AI captions, quality gate, Telegram review bot. 12k+ lines, MoviePy + Remotion.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/amadeobonde/podcastbrief"><b>podcastbrief</b></a></td>
+<td>Spotify podcast playlist → morning-brief PDFs + Obsidian vault you can query from Telegram. Whisper transcription, local Gemma 4 E4B via Ollama, zero cloud API cost.</td>
 </tr>
 </table>
 
