@@ -40,7 +40,7 @@ Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — landing at ran
 
 ---
 
-<img align="right" width="36%" src="assets/herblens-preview.png"/>
+<img align="right" width="44%" src="assets/herblens-preview.png"/>
 
 **[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
@@ -54,7 +54,7 @@ SwiftUI · Supabase · Deno edge functions · Gemini 2.5 Flash vision + Claude c
 
 ---
 
-<img align="right" width="36%" src="assets/devexana-preview.png"/>
+<img align="right" width="36%" src="assets/devexana-reel.gif"/>
 
 **[devexana-reels](https://github.com/amadeobonde/devexana-reels)**
 
