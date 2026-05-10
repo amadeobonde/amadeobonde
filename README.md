@@ -1,87 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:4C1D95,100:7C3AED&height=160&section=header&text=amadeobonde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=building%20things%20at%20the%20edge%20of%20hardware%20and%20software&descAlignY=65&descSize=16&descColor=C4B5FD"/>
-</p>
+<h1 align="center">hey, I'm Amadeo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=LLM+inference+off+NVMe+%E2%86%92+GPU+via+io_uring;beat+Claude+Opus+4.5+at+its+own+benchmark+%281%2C358+cycles%29;iOS+apps+with+AI+backends;automation+pipelines+that+run+while+I+sleep" />
+  I build things at the intersection of hardware and software.<br/>
+  Custom inference engines, iOS apps with AI backends, automation that runs itself.
 </p>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+- 🔩 currently working on: LLM inference that streams weights off NVMe directly to GPU on Jetson Orin Nano
+- ⚡ fun fact: I beat Claude Opus 4.5 on Anthropic's own kernel optimization benchmark — **1,358 cycles vs 1,363**
+- 🌿 shipped: a full iOS plant ID app with vision AI, Supabase backend, and a Claude-powered chat
+- 🎬 also built: an automated video pipeline that generates, quality-gates, and delivers reels via Telegram
+- 📫 reach me: **abonde421@gmail.com**
 
-### 🔩 jetson-inference
-LLM inference engine streaming quantized weights off NVMe directly to GPU. Custom CUDA kernels, sparse FFN with activation prediction, `io_uring` zero-copy I/O.
+<br/>
 
-[![Repo](https://img.shields.io/badge/view_repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadeobonde/jetson-inference)
+### 🛠 tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🌿 HerbLens
-Full-stack iOS app — camera → plant ID → AI chat. SwiftUI frontend, Supabase backend, Deno edge functions, Gemini vision + Claude.
-
-[![Repo](https://img.shields.io/badge/view_repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadeobonde/HerbLens)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚡ anthropic-kernel-challenge
-Optimized a VLIW SIMD scheduler to **1,358 cycles** — beating Claude Opus 4.5's best score of 1,363. DAG scheduling, WAR elimination, vectorized SIMD batching.
-
-[![Repo](https://img.shields.io/badge/view_repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadeobonde/anthropic-kernel-challenge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🎬 devexana-reels
-Automated content pipeline. Generates 6 reel formats, quality-gates them, sends via Telegram bot for one-tap review. 12k+ lines, MoviePy + Remotion.
-
-[![Repo](https://img.shields.io/badge/view_repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadeobonde/devexana-reels)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
-</tr>
-</table>
+**AI / ML**
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![CUDA Kernels](https://img.shields.io/badge/CUDA_Kernels-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Mobile / Backend**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 <br/>
 
-<h3 align="center">stack</h3>
+### 📌 projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,cpp,ts,react,postgres,docker,supabase,xcode,linux&theme=dark&perline=10" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amadeobonde&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=7C3AED&text_color=E2E0EA&count_private=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadeobonde&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E2E0EA&langs_count=6" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadeobonde&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amadeobonde/amadeobonde/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amadeobonde/amadeobonde/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/amadeobonde/amadeobonde/output/github-contribution-grid-snake.svg" width="95%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D0B1A&height=100&section=footer"/>
-</p>
+| | |
+|---|---|
+| [**jetson-inference**](https://github.com/amadeobonde/jetson-inference) | LLM inference engine for Jetson Orin Nano — streams quantized weights off NVMe via `io_uring`, custom CUDA kernels, sparse FFN activation prediction cuts I/O ~60% · `C++` `CUDA` |
+| [**HerbLens**](https://github.com/amadeobonde/HerbLens) | iOS plant identification app — camera → instant ID → AI chat, SwiftUI + Supabase + Gemini vision + Claude · `Swift` `Supabase` |
+| [**anthropic-kernel-challenge**](https://github.com/amadeobonde/anthropic-kernel-challenge) | Optimized Anthropic's VLIW SIMD scheduler to 1,358 cycles, beating Claude Opus 4.5 (1,363). DAG scheduling, WAR hazard elimination, SIMD vectorization · `Python` |
+| [**devexana-reels**](https://github.com/amadeobonde/devexana-reels) | Automated Instagram Reels pipeline — 6 video formats, Gemini AI captions, quality gate, Telegram review bot · `Python` `MoviePy` `Remotion` |
