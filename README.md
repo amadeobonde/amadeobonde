@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <span>hardware × software &nbsp;·&nbsp; NVMe inference &nbsp;·&nbsp; iOS + AI &nbsp;·&nbsp; automation &nbsp;·&nbsp; Bergen County, NJ</span>
+  <span>hardware × software &nbsp;·&nbsp; NVMe inference &nbsp;·&nbsp; iOS + AI &nbsp;·&nbsp; automation &nbsp;·&nbsp; Bergen County, NJ</span><br/>
+  <span>Building at the edge of hardware and software. Accelerating development cycles using Cursor, Claude 3.5 Sonnet, and Copilot.</span>
 </p>
 
 <p align="center">
@@ -56,9 +57,9 @@ iOS plant ID app — photograph a herb, get instant identification, health scori
 
 **[devexana-reels](https://github.com/amadeobonde/devexana-reels)**
 
-Fully automated short-form video pipeline — ingests source clips, generates 6 aspect-ratio variants, writes AI captions via Gemini, runs a multi-pass quality gate, and routes to a Telegram review bot before publish. 12k+ lines, fully headless.
+Fully automated short-form video pipeline — ingests source clips, generates 6 aspect-ratio variants, writes AI captions via Gemini, runs a multi-pass quality gate, and routes to a Telegram review bot before publish. 12k+ lines written primarily with Cursor, fully headless. Built with a team of 3.
 
-`Python` &nbsp; `TypeScript` &nbsp; `MoviePy` &nbsp; `Remotion`
+`Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `MoviePy` &nbsp; `Remotion`
 
 <br clear="right"/>
 
@@ -78,9 +79,9 @@ LLM inference engine for Jetson Orin Nano. Streams quantized model weights off N
 
 **[podcastbrief](https://github.com/amadeobonde/podcastbrief)**
 
-Spotify playlist → morning-brief PDFs + an Obsidian-style notes vault you can query over Telegram. Whisper transcription, local Gemma 4 via Ollama — zero cloud API cost after setup.
+Spotify playlist → morning-brief PDFs + an Obsidian-style notes vault you can query over Telegram. Whisper transcription, local Gemma 4 via Ollama — zero cloud API cost after setup. Includes a React/TypeScript frontend dashboard.
 
-`Python` &nbsp; `Ollama` &nbsp; `Whisper`
+`Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Ollama` &nbsp; `Whisper`
 
 ---
 
