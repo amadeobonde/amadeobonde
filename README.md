@@ -2,9 +2,11 @@
   <img src="name-banner.svg" width="100%" alt="amadeo bonde"/>
 </p>
 
+<h4 align="center">Hardware × Software &nbsp;·&nbsp; NVMe Inference &nbsp;·&nbsp; iOS + AI &nbsp;·&nbsp; Automation</h4>
+
 <p align="center">
-  <span>hardware × software &nbsp;·&nbsp; NVMe inference &nbsp;·&nbsp; iOS + AI &nbsp;·&nbsp; automation &nbsp;·&nbsp; Bergen County, NJ</span><br/>
-  <span>Building at the edge of hardware and software. Accelerating development cycles using Cursor, Claude 3.5 Sonnet, and Copilot.</span>
+  Building highly-optimized, resource-efficient systems in Bergen County, NJ.<br/>
+  Accelerating development cycles using <b>Cursor</b>, <b>Claude 3.5 Sonnet</b>, and <b>Copilot</b>.
 </p>
 
 <p align="center">
