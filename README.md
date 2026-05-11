@@ -6,7 +6,7 @@
 
 <p align="center">
   Building highly-optimized, resource-efficient systems in Bergen County, NJ.<br/>
-  Accelerating development cycles using <b>Cursor</b>, <b>Claude 3.5 Sonnet</b>, and <b>Copilot</b>.
+  Accelerating development cycles using <b>Cursor</b>, <b>Claude</b>, <b>Gemini</b> and <b>Copilot</b>.
 </p>
 
 <p align="center">
