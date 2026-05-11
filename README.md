@@ -36,7 +36,7 @@ Automated knowledge-extraction pipeline. Transcribes audio via Whisper and route
 
 **[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
-iOS app integrating Gemini Vision for real-time herb identification. Supabase (PostgreSQL) powers relational data management and backend-as-a-service, with Deno edge functions for scalable health scoring and user tracking.
+iOS app integrating Gemini Vision for real-time herb identification. Supabase (PostgreSQL) powers relational data management and backend-as-a-service, with edge functions for scalable health scoring and user tracking.
 
 `Swift` &nbsp; `SwiftUI` &nbsp; `Supabase / PostgreSQL` &nbsp; `Gemini Vision`
 
