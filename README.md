@@ -8,7 +8,7 @@
 
 <p align="center">
   Building full-stack web apps, agentic workflows, and automated pipelines.<br>
-  AI-first development mindset — <strong>Cursor · Claude · Copilot</strong> — to accelerate delivery and solve business problems.
+  Poweruser of <strong>Cursor · Claude · Copilot</strong> to accelerate delivery and solve business problems.
 </p>
 
 <p align="center">
