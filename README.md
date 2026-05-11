@@ -30,17 +30,11 @@ Automated knowledge-extraction pipeline. Transcribes audio via Whisper and route
 
 `React` &nbsp; `TypeScript` &nbsp; `Ollama` &nbsp; `Whisper` &nbsp; `SQL`
 
-<br>
-
-<img align="right" width="18%" src="assets/herblens-demo.gif"/>
-
 **[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
 iOS app integrating Gemini Vision for real-time herb identification. Supabase (PostgreSQL) powers relational data management and backend-as-a-service, with edge functions for scalable health scoring and user tracking.
 
 `Swift` &nbsp; `SwiftUI` &nbsp; `Supabase / PostgreSQL` &nbsp; `Gemini Vision`
-
-<br clear="right">
 
 **[viralreels](https://github.com/amadeobonde/viralreels)**
 
