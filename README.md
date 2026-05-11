@@ -27,15 +27,7 @@
 
 <br/>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              ◈  SELECTED PROJECTS  ◈                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">──────── &nbsp; <strong>SELECTED PROJECTS</strong> &nbsp; ────────</p>
 
 <br/>
 
@@ -65,15 +57,11 @@ iOS app integrating Gemini Vision for real-time herb identification. Supabase (P
 
 <br/>
 
-<img align="right" width="25%" src="assets/viralreels-demo.gif"/>
-
 **[viralreels](https://github.com/amadeobonde/viralreels)** &nbsp; `AI Automation · LLM Orchestration`
 
 End-to-end automated marketing content pipeline. Orchestrates Claude, Gemini, and ElevenLabs APIs to script, generate, and assemble short-form video — demonstrating the ability to guide multiple AI systems toward specific, high-quality business outcomes.
 
 `Python` &nbsp; `Claude` &nbsp; `Gemini` &nbsp; `ElevenLabs`
-
-<br clear="right"/>
 
 ---
 
