@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📍 Demarest, NJ &nbsp;·&nbsp; 🎓 B.A./B.S. Economics & Engineering &nbsp;·&nbsp; ✉️ <a href="https://linkedin.com/in/amadeobonde">LinkedIn</a>
+  📍 Demarest, NJ &nbsp;·&nbsp; 🎓 B.A./B.S. Economics & Engineering &nbsp;·&nbsp; ✉️ <a href="[https://linkedin.com/in/amadeobonde](https://www.linkedin.com/in/amadeo-bonde/)">LinkedIn</a>
 </p>
 
 <br/>
