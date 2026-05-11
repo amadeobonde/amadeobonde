@@ -3,93 +3,70 @@
 </p>
 
 <p align="center">
-  <sub><code>◈</code>&nbsp;&nbsp;<strong>Incoming 3-2 Engineering &amp; Economics Student @ Hamilton College (Exp. 2031)</strong>&nbsp;&nbsp;<code>◈</code></sub>
+  Incoming 3-2 Engineering &amp; Economics &nbsp;·&nbsp; Hamilton College (Class of 2031)
 </p>
 
 <p align="center">
-  Building full-stack web apps, agentic workflows, and automated pipelines.<br/>
-  Leveraging an AI-first development mindset — <strong>Cursor · Claude · Copilot</strong> — to accelerate delivery and solve real business problems.
+  Building full-stack web apps, agentic workflows, and automated pipelines.<br>
+  AI-first development mindset — <strong>Cursor · Claude · Copilot</strong> — to accelerate delivery and solve business problems.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amadeo-bonde/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Demarest%2C%20NJ-📍-22d3ee?style=flat&labelColor=0d1117&color=22d3ee"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Economics%20×%20Engineering-Hamilton%20College-22d3ee?style=flat&labelColor=0d1117&color=22d3ee"/>
+  <a href="https://www.linkedin.com/in/amadeo-bonde/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;·&nbsp; 📍 Demarest, NJ &nbsp;·&nbsp; 🎓 B.A./B.S. Economics &amp; Engineering
 </p>
 
-<br/>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,python,swift,postgres,supabase,docker,linux,cpp,xcode&theme=dark&perline=10"/>
 </p>
 
-<br/>
+---
 
-<p align="center">──────── &nbsp; <strong>SELECTED PROJECTS</strong> &nbsp; ────────</p>
+**[podcastbrief](https://github.com/amadeobonde/podcastbrief)**
 
-<br/>
-
-**[podcastbrief](https://github.com/amadeobonde/podcastbrief)** &nbsp; `Full-Stack · LLM Agent Pipeline`
-
-Automated knowledge-extraction pipeline. Transcribes audio via Whisper and routes it through a local LLM (Gemma 4 via Ollama) to convert unstructured audio into a queryable, Obsidian-style notes database. React/TypeScript frontend — a complete full-stack agentic workflow with zero cloud API cost.
+Automated knowledge-extraction pipeline. Transcribes audio via Whisper and routes it through a local LLM (Gemma 4 via Ollama) to convert unstructured audio into a queryable, Obsidian-style notes database. React/TypeScript frontend demonstrates a complete full-stack agentic workflow at zero cloud API cost.
 
 `React` &nbsp; `TypeScript` &nbsp; `Ollama` &nbsp; `Whisper` &nbsp; `SQL`
 
-<br/>
+<br>
 
----
+<img align="right" width="18%" src="assets/herblens-demo.gif"/>
 
-<br/>
-
-<img align="right" width="25%" src="assets/herblens-demo.gif"/>
-
-**[HerbLens](https://github.com/amadeobonde/HerbLens)** &nbsp; `iOS · PostgreSQL · AI Vision`
+**[HerbLens](https://github.com/amadeobonde/HerbLens)**
 
 iOS app integrating Gemini Vision for real-time herb identification. Supabase (PostgreSQL) powers relational data management and backend-as-a-service, with Deno edge functions for scalable health scoring and user tracking.
 
 `Swift` &nbsp; `SwiftUI` &nbsp; `Supabase / PostgreSQL` &nbsp; `Gemini Vision`
 
-<br clear="right"/>
+<br clear="right">
 
----
+**[viralreels](https://github.com/amadeobonde/viralreels)**
 
-<br/>
-
-**[viralreels](https://github.com/amadeobonde/viralreels)** &nbsp; `AI Automation · LLM Orchestration`
-
-End-to-end automated marketing content pipeline. Orchestrates Claude, Gemini, and ElevenLabs APIs to script, generate, and assemble short-form video — demonstrating the ability to guide multiple AI systems toward specific, high-quality business outcomes.
+End-to-end automated marketing content pipeline. Orchestrates Claude, Gemini, and ElevenLabs APIs to script, generate, and assemble short-form video — demonstrating the ability to guide multiple AI systems toward specific, measurable business outcomes.
 
 `Python` &nbsp; `Claude` &nbsp; `Gemini` &nbsp; `ElevenLabs`
 
----
+<br>
 
-<br/>
+<img align="right" width="30%" src="assets/kernel-leaderboard.png"/>
 
-<img align="right" width="40%" src="assets/kernel-leaderboard.png"/>
-
-**[anthropic-kernel-challenge](https://github.com/amadeobonde/anthropic-kernel-challenge)** &nbsp; `DSA · Systems`
+**[anthropic-kernel-challenge](https://github.com/amadeobonde/anthropic-kernel-challenge)**
 
 Optimized Anthropic's VLIW SIMD scheduler to **1,358 cycles** — rank 148 of 391, beating Claude Opus 4.5 (1,363). Approach: DAG-based instruction scheduling, WAR hazard elimination, vectorized SIMD batching.
 
 `C++` &nbsp; `CUDA` &nbsp; `SIMD`
 
-<br clear="right"/>
+<br clear="right">
 
----
-
-<br/>
-
-**[jetson-inference](https://github.com/amadeobonde/jetson-inference)** &nbsp; `System Architecture · Edge AI`
+**[jetson-inference](https://github.com/amadeobonde/jetson-inference)**
 
 LLM inference engine for Jetson Orin Nano. Streams quantized model weights off NVMe directly to GPU via `io_uring` zero-copy I/O — no full-model RAM load. Custom CUDA kernels and sparse FFN with activation prediction cuts I/O ~60%.
 
 `C++` &nbsp; `CUDA` &nbsp; `Python` &nbsp; `io_uring`
 
 ---
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amadeobonde/amadeobonde/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake"/>
