@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Incoming 3-2 Engineering &amp; Economics &nbsp;·&nbsp; Hamilton College (Class of 2031)
+  Incoming 3-2 Engineering &amp; Economics &nbsp;·&nbsp; Hamilton College (Class of 2030)
 </p>
 
 <p align="center">
