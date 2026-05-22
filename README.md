@@ -9,9 +9,9 @@
   Poweruser of <strong>Cursor · Claude · Copilot</strong> to accelerate delivery and solve business problems.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/amadeo-bonde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amadeo-bonde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;·&nbsp;
-  <a href="https://dev.to/amadeobonde"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
+  <a href="https://dev.to/amadeobonde"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   &nbsp;·&nbsp; 📍 Demarest, NJ &nbsp;·&nbsp; 🎓 B.A./B.S. Economics &amp; Engineering
 </p>
 
