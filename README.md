@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   Building full-stack web apps, agentic workflows, and automated pipelines.<br>
-  Poweruser of <strong>Cursor · Claude · Copilot</strong> to accelerate delivery and solve business problems.
+  Poweruser of <strong>Cursor · Claude · Gemini</strong> to accelerate delivery and solve business problems.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/amadeo-bonde"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
