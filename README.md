@@ -2,7 +2,7 @@
   <img src="name-banner.svg" width="100%" alt="amadeo bonde"/>
 </p>
 <p align="center">
-  Incoming 3-2 Engineering &amp; Economics &nbsp;·&nbsp; Hamilton College (Class of 2030)
+  3-2 Engineering &amp; Economics &nbsp;·&nbsp; Student Athlete at Hamilton College (Class of 2030)
 </p>
 <p align="center">
   Building full-stack web apps, agentic workflows, and automated pipelines.<br>
